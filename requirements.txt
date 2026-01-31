@@ -1,8 +1,8 @@
-streamlit
-pandas>=2.1
+streamlit==1.44.1
+pandas==2.2.3
 numpy>=1.26,<2.1
 matplotlib
-plotly
+plotly==5.24.1
 pyarrow
 altair
 pycountry
